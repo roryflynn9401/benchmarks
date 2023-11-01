@@ -1,0 +1,2 @@
+No Critical Section
+Array [ search.length * no cores]
